@@ -45,12 +45,12 @@ padding : 50px 0;
 		    <form class="login-form" action="login" method="post">
   <div class="form-group">
     <label for="exampleInputEmail1" class="text-uppercase">Username</label>
-    <input type="text" class="form-control" placeholder="" name="username">
+    <input type="text" class="form-control" placeholder="BAL GOVIND" name="username">
     
   </div>
   <div class="form-group">
     <label for="exampleInputPassword1" class="text-uppercase">Password</label>
-    <input type="password" class="form-control" placeholder="" name="password">
+    <input type="password" class="form-control" placeholder="YADAV" name="password">
   </div>
   
   
